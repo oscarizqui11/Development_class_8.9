@@ -59,13 +59,11 @@ void j1Map::Path(int x, int y)
 			}
 		}
 	}
+}
 
-
-	// TODO 2: Follow the breadcrumps to goal back to the origin
-	// add each step into "path" dyn array (it will then draw automatically)
-
+void j1Map::Goal(int x, int y)
+{
 	
-
 }
 
 void j1Map::Astar()

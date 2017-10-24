@@ -1,5 +1,10 @@
-﻿  j1Map.cpp
-c:\users\oscaric1\downloads\dev_class7.8_handout\motor2d\j1map.cpp(278): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
-c:\users\oscaric1\downloads\dev_class7.8_handout\motor2d\j1map.cpp(279): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
-  Motor2D.vcxproj -> C:\Users\oscaric1\Downloads\Dev_class7.8_handout\Debug\Dev Class7.8 Handout.exe
-  Motor2D.vcxproj -> C:\Users\oscaric1\Downloads\Dev_class7.8_handout\Debug\Dev Class7.8 Handout.pdb (Partial PDB)
+﻿  j1Scene.cpp
+  j1Map.cpp
+c:\users\oscaric1\documents\github\development_class_8.9\motor2d\j1map.cpp(72): warning C4101: 'goal_cost': variable local sin referencia
+c:\users\oscaric1\documents\github\development_class_8.9\motor2d\j1map.cpp(312): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\oscaric1\documents\github\development_class_8.9\motor2d\j1map.cpp(313): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Generando código...
+  Omitiendo... (no se detectaron cambios relevantes)
+  j1App.cpp
+  Motor2D.vcxproj -> C:\Users\oscaric1\Documents\GitHub\Development_class_8.9\Debug\Dev Class7.8 Handout.exe
+  Motor2D.vcxproj -> C:\Users\oscaric1\Documents\GitHub\Development_class_8.9\Debug\Dev Class7.8 Handout.pdb (Partial PDB)
